@@ -1,2 +1,2 @@
-# Okala
-My work at Okala
+#
+My work
